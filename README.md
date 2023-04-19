@@ -1,1 +1,5 @@
 # CS_305_Software_Security
+
+    Artemis Financial is a financial consulting company that creates finance plans for their clients, including savings, retirement, investment, and insurance. They wish to modernize their business and create custom software for their clients to interact with the business through using a public web interface. They are seeking assistance in ensuring that their software uses the most current and effective software security to ensure that their client’s data and financial information are protected.
+    I feel I was effective in running vulnerability testing and determining the potential false positives when checking the client’s security vulnerabilities. Secure coding is vital to ensuring that software is safe to use, and the user’s data and personal information are protected from threats of attack or data loss. Ensuring that a user’s or company’s information is secure is just as important as making sure that the data in transit is not modified or altered before reaching the receiver of the data. Secure coding also ensures that a company’s reputation stays in good standing.
+    
